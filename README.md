@@ -3,7 +3,7 @@
 
 ## 📘 Overview
 This tutorial simulates real-world IT onboarding and Windows domain configuration tasks in an enterprise environment. 💻  
-Using hands-on techniques from my bootcamp, I joined a computer to a domain, managed user accounts and groups in Active Directory, configured group policies, and automated common administrative tasks using PowerShell.
+Using hands-on techniques from my bootcamp, I joined a computer to a domain, managed user accounts and groups in Active Directory, configured group policies, and automated common administrative tasks using PowerShell. Please follow the link to view full project.
 https://jonahdoesit.github.io/test/
 ---
 
