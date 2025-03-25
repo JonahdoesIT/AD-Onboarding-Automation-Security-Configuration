@@ -1,10 +1,10 @@
-# IT-Onboarding-Automation-Security-Configuration
+
 # 🛡️ IT Onboarding Automation & Security Configuration
 
 ## 📘 Overview
 This tutorial simulates real-world IT onboarding and Windows domain configuration tasks in an enterprise environment. 💻  
 Using hands-on techniques from my bootcamp, I joined a computer to a domain, managed user accounts and groups in Active Directory, configured group policies, and automated common administrative tasks using PowerShell.
-
+https://jonahdoesit.github.io/test/
 ---
 
 ## 🧱 Steps & Key Tasks
