@@ -1,5 +1,5 @@
 
-# 🛡️ IT Onboarding Automation & Security Configuration
+# 🛡️ AD Onboarding Automation & Security Configuration
 
 ## 📘 Overview
 This tutorial simulates real-world IT onboarding and Windows domain configuration tasks in an enterprise environment. 💻  
